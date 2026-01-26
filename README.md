@@ -3,7 +3,7 @@
 # MECHATRONICS & AI RESEARCH
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Incoming+Researcher+%40+Algoverse;Mechatronics+Eng.+%40+UofG;Building+Hardware+%2B+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Digital+Design+%26+Verification;SystemVerilog+%7C+UVM+%7C+Automation;Building+AXI4+Verification+IPs" alt="Typing SVG" />
 </p>
 
 <br/>
