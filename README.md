@@ -16,7 +16,6 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdulDag&theme=dark&background=0D1117&border_radius=10&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&hide_border=true&v=2)](https://git.io/streak-stats)
 
 </div>
 
