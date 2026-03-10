@@ -19,6 +19,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=AbdulDag&theme=radical&graph=false&languages=false&streak=false&stats=false&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 ### 🧠 Technical Arsenal
 `Python` `C++` `C` `SQL` `Matplotlib` `SolidWorks` `Additive Mfg`
